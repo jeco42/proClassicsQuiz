@@ -4,5 +4,12 @@
     <string name="app_name">proClassicsQuiz</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Classics Quiz</string>
+    <string name="your_name">Your name:</string>
+    <string name="name_hint">enter your name...</string>
+    <string name="latin">Latin</string>
+    <string name="greek">Greek</string>
+    <string name="mixed">Mixed</string>
+    <string name="exit">Exit</string>
 
 </resources>
